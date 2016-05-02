@@ -1,166 +1,102 @@
-# Contract
+# Contrato
 
-## Terms and definitions
+## Definiciones
 
-* **‘This document’** refers to this contract and the terms and agreements within
+* **‘El Documento’**  se refiere a este contrato y a su contenido.
   it.
-* **‘The Work’** refers to the project for which this document was actioned.
-  This could be, but is far from limited to: a workshop, consultancy time,
-  development work, a conference talk.
-* **‘You’** refers to the client or company on behalf of whom The Work is
-  commissioned.
-* **‘I’** refers to me, Harry Roberts, working for You on behalf of CSS Wizardry
-  Ltd.
+* **‘“El Trabajo”’** se refiere al proyecto para el que este contrato se ha preparado. 
+* **‘Tú’,o ‘Vosotros’ ** se refiere al Cliente en interés del cual se realiza el trabajo encomendado. 
+* **‘Nosotros’** se refiere a Tvrbo (We Are Tvrbo S.L), trabajando para “Vosotros”.
 
-## About this document
+## Sobre este Documento
 
-I’m really excited that we’re at the stage where we’re signing contracts; it
-means that we’re a great fit both professionally and personally (I like working
-with nice people). I am very keen to maintain this relationship, and I hope this
-document can help us with that. I have tried to remain firm but fair, and I hope
-everything within this document seems reasonable.
+Estamos entusiasmados de que hayamos llegado al punto en el que vamos a firmar un contrato. Eso significa que encajamos tanto profesional como personalmente (nos gusta trabajar con buena gente). Estamos muy interesados en mantener nuestra relación, y esperamos que este Documento pueda ayudarnos a ello. Hemos tratado de ser justos y esperamos que todo lo contenido en este Documento parezca razonable.
 
-I have a very laid back and informal approach to my work, and I am not a fan of
-small print or legalese, so I aim to keep this document as concise and casual as
-possible. I hope You agree—and are comfortable—with this tone and approach.
+Tenemos un approach muy transparente en nuestro trabajo y no somos fans de la letra pequeña o el lenguaje leguleyo, así que mantendremos este Documento tan conciso y casual como sea posible. Esperamos que Vosotros accedáis (y estéis cómodos) con este tono y enfoque.
 
-This document exists to protect the interests of all involved parties, to
-outline our responsibilities to one another, and to avoid any confusion or
-disappointment during and/or after our time working together.
+Este Documento es para proteger los intereses de las partes involucradas, delimitar nuestras responsabilidades de unos con otros y evitar cualquier confusión y roce durante y/o después de nuestro tiempo trabajando juntos. 
 
-If anything is unclear please do not hesitate to ask me any questions. It is
-also important to know that amendments and additions can be requested _prior_ to
-signing the document. Each project I undertake will have its own individual
-nuances and requirements, so I am able and willing to modify this document to
-suit the needs of each project.
+Si algo no está claro, por favor no dudéis en preguntarnos cualquier cosa. Es también importante conocer las adiciones y modificaciones que puedan ocurrir con anterioridad a la firma de este Documento. Cada proyecto que llevamos a cabo tendrá sus propios requerimientos y desarrollos, de modo que estamos abiertos a modificar este Documento para adaptarlo a las necesidades de cada proyecto.
 
-In summary, The Client is contracting CSS Wizardry Ltd. to complete
-work outlined within this document and/or other documents in accordance with
-agreed briefs, specifications, costs and deadlines.
+En resumen el Cliente contrata a Tvrbo para completar el trabajo referido en este contrato y/o otros documentos de acuerdo con las indicaciones, especificaciones, costes y plazos acordados.
 
-Now, let’s do great work together!
+
+Ahora, ¡hagamos algo grande juntos!
+
 
 ---
 
-## Involved parties
+## Partes
 
-**Harry Roberts, ‘CSS Wizardry’, ‘I’:**
+**Pol Monés en representación de Tvrbo, ‘Nosotros’:**
 
-[Address]
+Passeig Sant Joan 125,5-2. 08037 Barcelona
 
-**[Name], ‘The Client’, ‘You’:**
+**[Nombre], [Empresa], ‘Tú’:**
 
-[Address]
+[Dirección]
 
-## Scope of The Work
+## Objeto y alcance del Trabajo
 
-The scope of The Work I will be carrying out for You will likely have been
-outlined, understood and agreed in previous correspondence. Emails and other
-documents detailing the scope of The Work are supplementary to this document and
-shall be referenced and referred to when agreeing and defining the project’s
-scope.
+[Descripción Exhaustiva]
 
-### Change in scope
+### Modificaciones posteriores al alcance del Trabajo
 
-There are times when the scope of The Work may change. Ideally we will handle
-these as-and-when, and in a pragmatic manner, but any major deviations in scope
-may require renegotiation of rates and the termination and renewal of the
-contract.
 
-## Deadlines
+Hay momentos en que el objeto y alcance del Trabajo pueden o deben cambiar. Idealmente gestionaremos esto en el momento y de forma realista, pero una desviación importante del objeto y/o alcance del Trabajo requerirá una renegociación del precio y la resolución o novación del contrato.
 
-Deadlines for The Work shall be agreed in separate correspondence, and I shall
-do everything within my power to stick to them. In the unfortunate event that
-either party cannot meet a deadline, it is important that we remain completely
-transparent and honest about any delays or hold ups. Delays can, will, and do
-happen, it is how we handle them that matters.
 
-## Copyright and ownership
+## Plazos
 
-The nature of open-source, and a lot of The Work I carry out, policing copyright
-is quite difficult. Any third-party libraries will remain under their respective
-licenses, and it is Your responsibility to ensure that any supplied materials
-(stock photography, font files, code, etc.) are correctly licensed.
+[Concretar]
 
-Once the entire outstanding balance of the project has been paid, all relevant
-copyright of The Work that can be assigned to You shall be.
+En el desafortunado evento de que que una de las Partes no cumpla un plazo, es importante que seamos completamente transparentes y honestos. Los retrasos pueden y de hecho suceden, es cómo se gestionan esos retrasos lo que importa.
 
-There will likely be a few grey areas if The Work is a workshop or conference
-talk that You have paid for but not explicitly commissioned. For example: if I
-were to give a public talk at Your conference, I would like to retain copyright
-of the slides etc. so as to share them with the wider community; if I am
-commissioned to give a workshop specifically for/to Your business, You would
-retain the copyright. I like to think we can agree on the intricacies of these
-on a case-by-case basis.
+## Copyright y Propiedad del Trabajo 
 
-## Disclosure
+[Concretar]
 
-I am more than happy to sign a Non-Disclosure Agreement (NDA) in order to work
-on Your project.
+## Confidencialidad
 
-I often like to write and tweet about the projects I am currently working on; if
-there is no NDA in place I shall assume that You authorise me to do this. Please
-explicitly state if this is not acceptable before signing this document.
+Nos gusta mostrar los proyectos en los que participamos en nuestra web. Asumimos que se nos autoriza en el presente Documento a hacer esto.
 
-I shall explicitly seek Your consent before open sourcing—or writing in any
-detail about—any of the code or techniques employed in The Work.
 
-## Alterations, amends and maintenance
+## Alteraciones, cambios y mantenimiento
 
-Any amends which do not drastically alter the scope of The Work, or that are
-intended to bring The Work more in line with project requirements, usually fall
-under the agreed scope of The Work and, as such, do not require renegotiation of
-costs or this document.
+Cualquier cambio que no altere drásticamente el objeto y alcance del Trabajo o que sea crítico para el Trabajo generalmente no requerirá una renegociación de los costes acordados en este Documento. 
 
-For any changes that do change the scope of The Work, please see the _Change
-in scope_ section of this document.
+Para cambios que modifican el objeto y alcance del Trabajo serán tratados de forma individual y transparente y en caso de requerirlo se firmará un nuevo Contrato con la descripción final del alcance y objeto del Trabajo. 
 
-Any bugs, which, unfortunately, cannot be guaranteed against, that are directly
-related to The Work, and are discovered within two weeks of the end of The Work,
-shall be fixed as a matter of course, and require no renegotiation of terms. I
-also apologise in advance if we should ever find ourselves in this situation.
+Cualquier bug, por desgracia nadie es infalible, que sea directamente relacionado con El Trabajo descubiertos durante las dos semanas posteriores a la finalización del Trabajo será subsanado por Nosotros sin coste alguno. Pedimos perdón por avanzado si nunca nos encontramos en esta situación. 
 
-Maintenance of The Work is not covered by either the project’s costs or this
-document unless explicitly agreed. Maintenance work can be specced out and
-priced separately to the scope of The Work.
+El mantenimiento del Trabajo no está cubierto por este Documento a no ser que se acuerde y detalle. Todo mantenimiento será descrito en otro Contrato y presupuestado separado del objeto y alcance del Trabajo. 
 
-## Payment
 
-Being a small business, cash flow is very important to CSS Wizardry. As such, it
-is asked that You meet the payment terms outlined below.
 
-### Deposit
+### Provisión de fondos
 
-An upfront deposit of 50% is required before commencing with any agreed work.
-This deposit is non-refundable and will only be paid once a fixed scope has been
-set, and we are confident that we wish to work together to these agreed terms.
-No deposit shall be taken until You are completely happy with, and clear about,
-the agreed scope of The Work and its surrounding terms. Work shall commence as
-soon as the deposit is received.
+Requerimos un depósito por avanzado del 50% antes de empezar con el objeto y alcance del Trabajo. Este depósito no es reembolsable y sólo se abonará una vez el Trabajo esté definido y todas las partes estén convencidas de trabajar juntos y felices con las condiciones. 
+El Trabajo empezará tan pronto el depósito sea recibido.
 
-### Payment terms
+## Pago
 
-Once a project is deemed complete, an invoice shall be raised for the remaining
-50% of the project cost, along with any other incidental costs (see _Expenses_).
-The remaining balance shall be paid within 14 days of it being invoiced.
+Al ser una empresa pequeña, es importante que el calendario de pago que se establece abajo se cumpla por Vosotros.
 
-### Expenses
+[Concretar]
 
-Any expenses (e.g. travel, accommodation, font licenses, etc.) shall be charged
-on top of any charges relating directly to The Work.
+
+
 
 ## tl;dr
 
-Let’s just be respectful and mindful of each other at all times, before, during
-and after The Work.
+Nos comprometemos a ser respetuosos y empáticos unos con otros en todo momento, antes, durante y después del Trabajo.
 
-## Signatures
+## Firma
 
-The undersigned confirm that they have read, understood, and shall adhere to the
-terms laid out in this document:
+Los abajo firmantes manifiestan que han leído, entienden, aceptan y acuerdan el contenido de este Documento.
 
-* **Harry Roberts:**
+* **Pol Monés**
 * **Date:**
 
-* **You:**
+* **Tú:**
 * **Date:**
