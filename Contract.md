@@ -4,8 +4,8 @@
 
 * **‘El Documento’**  se refiere a este contrato y a su contenido.
   it.
-* **‘“El Trabajo”’** se refiere al proyecto para el que este contrato se ha preparado. 
-* **‘Tú’,o ‘Vosotros’ ** se refiere al Cliente en interés del cual se realiza el trabajo encomendado. 
+* **‘El Trabajo’** se refiere al proyecto para el que este contrato se ha preparado. 
+* **‘Tú’** o **‘Vosotros’** se refiere al Cliente en interés del cual se realiza el trabajo encomendado. 
 * **‘Nosotros’** se refiere a Tvrbo (We Are Tvrbo S.L), trabajando para “Vosotros”.
 
 ## Sobre este Documento
